@@ -1,0 +1,17 @@
+@font-face {
+    font-family: Blinkets;
+    src: url('../fonts/Blinkets.otf');
+}
+
+div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 200px;
+    height: 200px;
+    background-color: lightblue;
+}
+
+h1 {
+    font-family: Blinkets, sans-serif;
+}
